@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omairys-talkshoplive
+👋 Hi, I’m @omairys-talkshoplive
 
 - 💻 I enjoy working with technology and problem-solving.
 - 🌱 As a hobby, I like to learn about new things in computer programming and continue to develop and refine my programming skills.
