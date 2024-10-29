@@ -1,7 +1,7 @@
 👋 Hi, I’m @omairys-talkshoplive
 
-- 💻 I enjoy working with technology and problem-solving.
-- 🌱 As a hobby, I like to learn about new coding tricks and polish my programming skills.
+- 💻 I enjoy working with technology and problem-solving
+- 🌱 As a hobby, I like to learn about new coding tricks and polish my programming skills
 
 <!---
 - 👀 I’m interested in ...
